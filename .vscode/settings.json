@@ -1,0 +1,10 @@
+{
+    "terminal.integrated.env.linux": 
+    {
+        "DBT_BIGQUERY_KEYFILE_PATH": "/home/seblap/Files/Arbeit/Data Analytics/Weiterbildung/Online Courses/LinkedIn - End-to-end Data Engineering Project/Keys/dbt/big-star-collectibles-414820-b030b1db5648.json",
+        "DBT_BIGQUERY_DATASET": "transformed_data",
+        "DBT_BIGQUERY_LOCATION": "EU",
+        "DBT_BIGQUERY_PROJECT": "big-star-collectibles-414820",
+        "DBT_PROFILES_DIR": "/home/seblap/Files/Arbeit/Data Analytics/GitHub repos/end-to-end-data-engineering-course/dbt_transformation/config"
+    }    
+}
