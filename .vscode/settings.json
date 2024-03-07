@@ -5,6 +5,8 @@
         "DBT_BIGQUERY_DATASET": "transformed_data",
         "DBT_BIGQUERY_LOCATION": "EU",
         "DBT_BIGQUERY_PROJECT": "big-star-collectibles-414820",
-        "DBT_PROFILES_DIR": "/home/seblap/Files/Arbeit/Data Analytics/GitHub repos/end-to-end-data-engineering-course/dbt_transformation/config"
-    }    
+        "DBT_PROFILES_DIR": "/home/seblap/Files/Arbeit/Data Analytics/GitHub repos/end-to-end-data-engineering-course/dbt_transformation/config",
+        "DBT_PROJECT_DIR": "/home/seblap/Files/Arbeit/Data Analytics/GitHub repos/end-to-end-data-engineering-course/dbt_transformation",
+        "AIRBYTE_PASSWORD": "password"
+    }
 }
